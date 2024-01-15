@@ -1,0 +1,30 @@
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Data.deps.json
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Data.dll
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Data.pdb
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Core.dll
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Core.pdb
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.csproj.AssemblyReference.cache
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.AssemblyInfoInputs.cache
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.AssemblyInfo.cs
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.csproj.CoreCompileInputs.cache
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.csproj.CopyComplete
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.dll
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\refint\Quiz.Data.dll
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.pdb
+C:\Users\Levon Arakelyan\source\repos\Quiz.API\Quiz.Data\obj\Debug\net6.0\ref\Quiz.Data.dll
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Data.deps.json
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Data.dll
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Data.pdb
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Core.dll
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\bin\Debug\net6.0\Quiz.Core.pdb
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.csproj.CopyComplete
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.dll
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\refint\Quiz.Data.dll
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\Quiz.Data.pdb
+C:\Users\User\source\repos\Quiz\Quiz.API\Quiz.Data\obj\Debug\net6.0\ref\Quiz.Data.dll
